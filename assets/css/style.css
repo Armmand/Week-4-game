@@ -1,0 +1,147 @@
+
+
+body{
+
+	background-image: url("../images/background-pattern-design-31.jpg");
+}
+
+#instr{
+  position: relative;
+	width: 450px;
+	height: 460px;
+	top:9px;
+	left: 65px;
+	border-width: 5px;
+	font-size: 17px;
+	line-height: 1.0;
+	padding: 10px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	background-color: #ffcc99;
+
+
+}
+#randnum{
+  position: relative;
+	top: 30px;
+	left: 10px;
+	width: 120px;
+	height: 0px;
+	font-size: 50px;
+	background-color: #50afa8;
+
+}
+#playerscore{
+	position: relative;
+	top: -15px;
+	left: 65px;
+	width: 150px;
+	height: 20px;
+	font-size: 40px;
+	padding: 60px;
+	background-color: #50afa8;
+}
+#losses{
+	position:relative;
+	top: -70px;
+	left: 300px;
+	background-color: #80ffff;
+	width:110px;
+	height:100px;
+	border-width: 3px
+}
+#wins{
+	position:relative;
+	top:-65px;
+	left:300px;
+	background-color: #80ffff;
+	width:110px;
+	height:50px;
+
+}
+
+#red{
+	position: relative;
+	top: -9px;
+	left: 5px;
+	margin: 10px;
+	width: 45px;
+	height: 80px;
+	display: inline-block;
+
+
+}
+
+#blue{
+	position: relative;
+	top: -21px;
+	left: 5px;
+	border-style: solid;
+	margin: 10px;
+	width: 45px;
+	height: 80px;
+	display: inline-block;
+
+}
+#yellow{
+	position: relative;
+	top: -16px;
+	left: 5px;
+	border-style: solid;
+	margin: 10px;
+	width: 45px;
+	height: 80px;
+	display: inline-block;
+
+}
+#green{
+	position: relative;
+	top: -12px;
+	left: 5px;
+	border-style: solid;
+	margin: 10px
+	width: 45px;
+	height: 80px;
+	display: inline-block
+
+}
+.crystals{
+  position: relative;
+	height: 135px;
+  margin: 10;
+	top: -26px;
+	left: 40px;
+
+}
+h2{
+  position: relative;
+  font-family: cursive;
+	top: 2px;
+	left: 69px;
+	background-color: #d2691e;
+	font-size: 30px;
+	width: 300px;
+	height: 50px;
+
+}
+
+#randNum{
+  position: relative;
+	top:46px;
+	left:65px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	background-color: #00b95c ;
+	font-size: 33px;
+	width: 200px;
+	height: 115px;
+}
+#yourscore{
+  position: relative;
+	top:-29px;
+	left:65px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	background-color: #50afa8;
+	font-size: 15px;
+	width: 150px;
+	height: 20px;
+
+}
